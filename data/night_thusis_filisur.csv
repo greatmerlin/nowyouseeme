@@ -1,3 +1,4 @@
+path,latitude,longitude,altitude,std_latitude,std_longitude
 Dataset_complete/Trackpictures/night/night_thusis_filisur_20200828/image_03700.jpg,46.698275,9.440775,705.466,1.69279230259462,-1.80255684595591
 Dataset_complete/Trackpictures/night/night_thusis_filisur_20200828/image_03701.jpg,46.698275,9.440775,705.466,1.69279230259462,-1.80255684595591
 Dataset_complete/Trackpictures/night/night_thusis_filisur_20200828/image_03702.jpg,46.698204,9.440808,705.513,1.68722679099175,-1.80211636443948
@@ -5599,4 +5600,3 @@ Dataset_complete/Trackpictures/night/night_thusis_filisur_20200828/image_09297.j
 Dataset_complete/Trackpictures/night/night_thusis_filisur_20200828/image_09298.jpg,46.675344,9.682592,1096.875,-0.104711170019024,1.42519827094174
 Dataset_complete/Trackpictures/night/night_thusis_filisur_20200828/image_09299.jpg,46.675344,9.682592,1096.875,-0.104711170019024,1.42519827094174
 Dataset_complete/Trackpictures/night/night_thusis_filisur_20200828/image_09300.jpg,46.675344,9.682592,1096.875,-0.104711170019024,1.42519827094174
-path,latitude,longitude,altitude,std_latitude,std_longitude

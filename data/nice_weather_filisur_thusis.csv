@@ -1,3 +1,4 @@
+path,latitude,longitude,altitude,std_latitude,std_longitude
 Dataset_complete/Trackpictures/nice_weather/nice_weather_filisur_thusis_20200824_pixelated/image_01100.jpg,46.675418,9.683572,1082.204,-0.087112663933663,1.44504985054925
 Dataset_complete/Trackpictures/nice_weather/nice_weather_filisur_thusis_20200824_pixelated/image_01101.jpg,46.675418,9.683572,1082.204,-0.087112663933663,1.44504985054925
 Dataset_complete/Trackpictures/nice_weather/nice_weather_filisur_thusis_20200824_pixelated/image_01102.jpg,46.675418,9.683572,1082.204,-0.087112663933663,1.44504985054925
@@ -5099,4 +5100,3 @@ Dataset_complete/Trackpictures/nice_weather/nice_weather_filisur_thusis_20200824
 Dataset_complete/Trackpictures/nice_weather/nice_weather_filisur_thusis_20200824_pixelated/image_06198.jpg,46.699119,9.44032,708.343,1.8109329424818,-1.85490609808857
 Dataset_complete/Trackpictures/nice_weather/nice_weather_filisur_thusis_20200824_pixelated/image_06199.jpg,46.699119,9.44032,708.343,1.8109329424818,-1.85490609808857
 Dataset_complete/Trackpictures/nice_weather/nice_weather_filisur_thusis_20200824_pixelated/image_06200.jpg,46.699119,9.44032,708.343,1.8109329424818,-1.85490609808857
-path,latitude,longitude,altitude,std_latitude,std_longitude
