@@ -33,7 +33,9 @@ public class UserProfileService {
             throw new IllegalStateException("could not upload empty file");
         }
 
-        if (!Arrays.asList(ContentType.IMAGE_JPEG, ContentType.IMAGE_PNG, ContentType.IMAGE_GIF).contains(file.getContentType())) {
+        if (!Arrays.asList(ContentType.IMAGE_JPEG.getMimeType(),
+                ContentType.IMAGE_PNG.getMimeType(),
+                ContentType.IMAGE_GIF.getMimeType()).contains(file.getContentType())) {
             throw new IllegalStateException("file must be an image");
         }
 
