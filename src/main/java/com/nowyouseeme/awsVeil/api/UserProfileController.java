@@ -30,7 +30,7 @@ public class UserProfileController {
     }
 
     @PostMapping(
-            path = "{userProfileId}/image/upload",
+            path = "{userProfileId}/image/download",
             consumes = MediaType.MULTIPART_FORM_DATA_VALUE,
             produces = MediaType.APPLICATION_JSON_VALUE
     )
