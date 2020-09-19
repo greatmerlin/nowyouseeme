@@ -2,7 +2,7 @@ package com.nowyouseeme.awsVeil.api;
 
 import com.nowyouseeme.awsVeil.model.UserProfile;
 import com.nowyouseeme.awsVeil.service.UserProfileService;
-import org.cef.callback.CefContextMenuParams;
+//import org.cef.callback.CefContextMenuParams;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;
@@ -14,6 +14,7 @@ import java.util.UUID;
 
 @RestController
 @RequestMapping("api/v1/user-profile")
+@CrossOrigin("*") //access from anywhere
 public class UserProfileController {
 
     private final UserProfileService userProfileService;
